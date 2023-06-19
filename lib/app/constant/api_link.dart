@@ -1,5 +1,5 @@
 
-const String LinkServerName="http://10.0.2.2/coursephp";
+const String LinkServerName="http://0.0.0.0/coursephp";
     //"http://192.168.1.5/coursephp";
 
 //Auth
